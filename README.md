@@ -1,1 +1,1 @@
-# rsschool-cv
+https://crasula.github.io/rsschool-cv/cv
