@@ -36,7 +36,7 @@ img {
 
 @font-face {
     font-family: 'Poppins';
-    src: url('../cv/assets/fonts/Poppins-Regular.ttf');
+    src: url('../rsschool-cv/assets/fonts/Poppins-Regular.ttf');
     font-style: normal;
     font-weight: normal;
 }
@@ -155,7 +155,7 @@ span {
 
 .profile_img {
     grid-area: g-img;
-    background-image: url('../cv/assets/img/IMG_5123.JPG');
+    background-image: url('../rsschool-cv/assets/img/IMG_5123.JPG');
     background-size: cover;
     border-radius: 0 30px 0 30px;
     -webkit-border-radius: 0 30px 0 30px;
@@ -221,35 +221,35 @@ span {
 }
 
 .icon-html {
-    background-image: url(../cv/assets/img/html-outline.png);
+    background-image: url('../rsschool-cv/assets/img/html-outline.png');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 20px 20px;
 }
 
 .icon-css {
-    background-image: url(../cv/assets/img/css-outline.png);
+    background-image: url('../rsschool-cv/assets/img/css-outline.png');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 20px 20px;
 }
 
 .icon-js {
-    background-image: url(../cv/assets/img/js-outline.png);
+    background-image: url('../rsschool-cv/assets/img/js-outline.png');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 20px 20px;
 }
 
 .icon-git {
-    background-image: url(../cv/assets/img/git-outline.png);
+    background-image: url('../rsschool-cv/assets/img/git-outline.png');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 20px 20px;
 }
 
 .icon-figma {
-    background-image: url(../cv/assets/img/figma-50.png);
+    background-image: url('../rsschool-cv/assets/img/figma-50.png');
     background-position: 0 0;
     background-repeat: no-repeat;
     background-size: 20px 20px;
